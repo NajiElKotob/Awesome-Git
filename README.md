@@ -14,6 +14,12 @@
 ## Books
 * [Pro Git](https://git-scm.com/book/) - git-scm.com | The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 
+## Setup
+* [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  * git config --list
+  * git config --global user.name "John Doe"
+  * git config --global user.email johndoe@example.com
+
 ## Tools
 ### VSCode
 * [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
