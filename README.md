@@ -2,6 +2,7 @@
 {Awesome Works in Progress}
 
 ## YouTube
+* [Introduction to Git Recap | Learn with Dr G](https://www.youtube.com/watch?v=9uGS1ak_FGg) - Microsoft Developer
 * [New Git experience in Visual Studio 2019](https://www.youtube.com/watch?v=UHrAg3iKoe0) - Microsoft Visual Studio
 * [Git Videos](https://git-scm.com/videos) - git-scm.com
 
