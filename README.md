@@ -9,3 +9,7 @@
 
 ## Books
 * [Pro Git](https://git-scm.com/book/) - git-scm.com | The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+
+## Tools
+### VSCode
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
