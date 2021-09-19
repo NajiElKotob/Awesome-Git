@@ -23,3 +23,7 @@
 ## Tools
 ### VSCode
 * [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
+
+## Learning
+### Microsoft Learning
+* [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
