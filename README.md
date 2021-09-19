@@ -1,6 +1,10 @@
 # Awesome Git
 {Awesome Works in Progress}
 
+## Hello Git
+* [Understanding Git (part 1) — Explain it Like I’m Five](https://hackernoon.com/understanding-git-fcffd87c15a3) - hackernoon.com | Kevin Cooper
+
+
 ## YouTube
 * [Introduction to Git Recap | Learn with Dr G](https://www.youtube.com/watch?v=9uGS1ak_FGg) - Microsoft Developer
 * [New Git experience in Visual Studio 2019](https://www.youtube.com/watch?v=UHrAg3iKoe0) - Microsoft Visual Studio
