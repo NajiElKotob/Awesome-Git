@@ -1,2 +1,2 @@
-# Awesome-Git
-Awesome Git
+# Awesome Git
+{Awesome Works in Progress}
