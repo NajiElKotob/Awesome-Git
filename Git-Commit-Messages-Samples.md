@@ -7,6 +7,10 @@
 * Miscellaneous tweaks and enhancements
 * Adjustments across multiple files for consistency
 
+## Add validation rules for Todo model
+- Implemented FluentValidation for Todo model.
+- Ensured title length constraints and non-null checks for properties.
+- Integrated validation into API endpoints.
 
 ## Add comments to your code
 * Add comments for better code clarity
