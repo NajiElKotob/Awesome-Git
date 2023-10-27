@@ -44,3 +44,15 @@
 * Enhance code readability with added comments
 * Detail important sections with comments for future reference
 * Add explanatory comments throughout the module
+
+## Adding and configuring JWT (JSON Web Tokens) for authentication or authorization in a project
+* Added and configured JWT authentication
+* Set up JWT for token-based authentication
+* Integrated JWT for user authentication
+* Implemented JWT token generation and validation
+* Configured JWT middleware for secure endpoints
+* Introduced JWT-based authentication mechanism
+* Enhanced security with JWT token integration
+* Added JWT support and respective configurations
+* Incorporated JWT for secure session handling
+* Configured and tested JWT token issuance and verification
