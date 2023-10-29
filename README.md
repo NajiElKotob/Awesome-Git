@@ -30,3 +30,8 @@
 
 ### Bitbucket
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - atlassian.com
+
+----
+
+## Articles
+* [Power BI Project (PBIP) and Azure DevOps build pipelines for continuous integration](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-build-pipelines)
