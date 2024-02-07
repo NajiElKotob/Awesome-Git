@@ -12,6 +12,8 @@
 * SuperSimpleDev
   - [Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co)
   - [Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)](https://www.youtube.com/watch?v=1ibmWyt8hfw)
+* Net Ninja
+  - [Git & GitHub Tutorial for Beginners #9 - Merging Branches (& conflicts)](https://www.youtube.com/watch?v=XX-Kct0PfFc)
 
 ## Books
 * [Pro Git](https://git-scm.com/book/) - git-scm.com | The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
